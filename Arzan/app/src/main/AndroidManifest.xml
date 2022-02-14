@@ -25,7 +25,10 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.Arzan"
         tools:targetApi="n">
-        <activity android:name=".activity.NotificationActvity"></activity>
+        <meta-data android:name="com.google.android.gms.ads.APPLICATION_ID"
+            android:value="ca-app-pub-5982958540560136~5859973400"/>
+        <activity android:name=".activity.NotificationActvity"
+            android:screenOrientation="portrait" />
         <activity
             android:name=".activity.ProfileTravelActivity"
             android:screenOrientation="portrait" />

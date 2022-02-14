@@ -30,6 +30,13 @@ import android.widget.LinearLayout;
 import android.widget.Toast;
 
 import com.github.florent37.expansionpanel.ExpansionLayout;
+import com.google.android.gms.ads.AdRequest;
+import com.google.android.gms.ads.LoadAdError;
+import com.google.android.gms.ads.MobileAds;
+import com.google.android.gms.ads.initialization.InitializationStatus;
+import com.google.android.gms.ads.initialization.OnInitializationCompleteListener;
+import com.google.android.gms.ads.interstitial.InterstitialAd;
+import com.google.android.gms.ads.interstitial.InterstitialAdLoadCallback;
 import com.google.android.gms.tasks.OnCompleteListener;
 import com.google.android.gms.tasks.Task;
 import com.google.android.material.bottomnavigation.BottomNavigationView;
@@ -99,6 +106,7 @@ public class MainActivity extends AppCompatActivity implements NavigationBarView
     private LinearLayout about,share,contact,rate,services,setting;
     private NetworkChangeListener networkChangeListener = new NetworkChangeListener();
     private static final int RV_APP_UPDATE = 100;
+    public InterstitialAd nInterstitialAd;
 
     @RequiresApi(api = Build.VERSION_CODES.LOLLIPOP)
     @Override

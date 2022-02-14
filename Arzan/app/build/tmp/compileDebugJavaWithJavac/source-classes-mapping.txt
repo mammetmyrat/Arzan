@@ -242,6 +242,9 @@ afisha/arzan/tm/MainActivity.java
  afisha.arzan.tm.MainActivity$10
  afisha.arzan.tm.MainActivity$11
  afisha.arzan.tm.MainActivity$12
+ afisha.arzan.tm.MainActivity$13
+ afisha.arzan.tm.MainActivity$14
+ afisha.arzan.tm.MainActivity$15
  afisha.arzan.tm.MainActivity$2
  afisha.arzan.tm.MainActivity$3
  afisha.arzan.tm.MainActivity$4

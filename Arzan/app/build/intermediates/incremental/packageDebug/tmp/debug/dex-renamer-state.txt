@@ -1,4 +1,4 @@
-#Mon Feb 14 08:36:14 MSK 2022
+#Mon Feb 14 10:32:24 MSK 2022
 path.4=14/classes.dex
 path.3=12/classes.dex
 path.2=10/classes.dex
@@ -9,6 +9,7 @@ path.8=8/classes.dex
 path.7=6/classes.dex
 path.6=2/classes.dex
 path.5=1/classes.dex
+renamed.11=classes12.dex
 renamed.10=classes11.dex
 path.0=classes.dex
 base.4=C\:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\14\\classes.dex
@@ -23,6 +24,7 @@ path.10=classes2.dex
 renamed.0=classes.dex
 base.9=C\:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\9\\classes.dex
 path.9=9/classes.dex
+path.11=classes3.dex
 renamed.7=classes8.dex
 base.8=C\:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\8\\classes.dex
 renamed.6=classes7.dex
@@ -31,4 +33,5 @@ renamed.5=classes6.dex
 base.6=C\:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\2\\classes.dex
 renamed.4=classes5.dex
 base.5=C\:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\1\\classes.dex
+base.11=C\:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\intermediates\\dex\\debug\\mergeExtDexDebug\\classes3.dex
 base.10=C\:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\intermediates\\dex\\debug\\mergeExtDexDebug\\classes2.dex
