@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">140590274669-7ssmout4q98l0qhnb9p1s6map28ha2o1.apps.googleusercontent.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">140590274669</string>
+    <string name="google_api_key" translatable="false">AIzaSyDt2w4ckCR4u3W0Hw4VEbRdBF9erH7EPjs</string>
+    <string name="google_app_id" translatable="false">1:140590274669:android:66aff9fdb2f52adb7ec764</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyDt2w4ckCR4u3W0Hw4VEbRdBF9erH7EPjs</string>
+    <string name="google_storage_bucket" translatable="false">arzan-app.appspot.com</string>
+    <string name="project_id" translatable="false">arzan-app</string>
+</resources>

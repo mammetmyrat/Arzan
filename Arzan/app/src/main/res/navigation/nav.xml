@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/nav"
+    app:startDestination="@id/home">
+    <fragment
+        android:id="@+id/home"
+        android:name="afisha.arzan.tm.fragment.main.HomeFragment"
+        android:label="HomeFragment" />
+    <fragment
+        android:id="@+id/profile"
+        android:name="afisha.arzan.tm.fragment.main.ProfileFragment"
+        android:label="ProfileFragment" />
+    <fragment
+        android:id="@+id/search"
+        android:name="afisha.arzan.tm.fragment.main.SearchFragment"
+        android:label="fragment_search_dragment"
+        tools:layout="@layout/fragment_search_dragment" />
+</navigation>

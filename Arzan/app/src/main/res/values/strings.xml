@@ -1,0 +1,182 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ARZAN</string>
+    <string name="about_us">О нас</string>
+    <string name="search">Поиск</string>
+    <string name="notification">Уведомление</string>
+    <string name="choose_region">Выберите Ваш регион</string>
+    <string name="lorem">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</string>
+    <string name="favorites">Избранное</string>
+    <string name="network_error_toast">Проверьте подключение к Интернету и повторите попытку!</string>
+    <string name="createdatup">Дата добавления - по возростанию</string>
+    <string name="createdatdown">Дата добавления - по убыванию</string>
+    <string name="viewup">Просмотры - по возростанию</string>
+    <string name="viewdown">Просмотры - по убыванию</string>
+    <string name="about">     Arzan- это приложение, где вы сможете найти и бесплатно выкладывать  все скидки, акции и новости любых городов и регионов нашей страны.
+        <br> </br><br> </br>     В чём особенность Arzan?
+<br> </br><br> </br>     Особенность Arzan в том, что здесь вы можете просматривать ленту со скидками и акциями просто и удобно во всех уголках нашей страны.  Вам не нужно часами искать скидку на тот или иной товар, просто напишите имя товара в строке поиска, и он автоматически выдаст нужные вам акции и скидки.
+<br> </br><br> </br>     А наша главная особенность в том, что вы сами БЕСПЛАТНО можете выставлять собственные акции или скидки в Arzan.
+<br> </br><br> </br>     Добавляйте понравившиеся акции и скидки в избранное, делитесь ими в социальных сетях и пусть все узнают, где самые актуальные скидки и акции.
+    </string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="nagile">Пожаловаться</string>
+    <string name="d_ndiri">Описание</string>
+    <string name="send">Отправить</string>
+    <string name="text_nagile">
+Если у вас есть какие-либо возражения против определенных акций или скидок, отправьте нам жалобное письмо. Мы постараемся ответить вам как можно скорее.</string>
+    <string name="register">Регистрация</string>
+    <string name="tassyklamak">Потвердить</string>
+    <string name="password">Пароль</string>
+    <string name="password_confirm">Подтвердите пароль</string>
+    <string name="login">Авторизоваться</string>
+    <string name="short_phoneNumber">Ваш номер телефона короткий</string>
+    <string name="short_password">Ваш пароль слишком короткий</string>
+    <string name="phone_have">Этот номер уже существует</string>
+    <string name="password_dont">Пароль не совпадает</string>
+    <string name="wrong_login_or_password">Неверный номер телефона или пароль</string>
+    <string name="successfully_registeres">Вы успешно вошли!</string>
+    <string name="add_post">Добавить!</string>
+    <string name="sended">Отправлено</string>
+    <string name="title_activity_main">Main</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_gallery">Gallery</string>
+    <string name="menu_slideshow">Slideshow</string>
+    <string name="language">Язык</string>
+    <string name="tkm">Türkmençe</string>
+    <string name="rus">Русский</string>
+    <string name="rules">Правила</string>
+    <string name="share">Поделиться</string>
+    <string name="contact_us">Связаться с нами</string>
+    <string name="rate_us">Оценить</string>
+    <string name="rules_desc">     Мобильное  приложение "ARZAN" носит исключительно информационный характер, и ни при каких условиях не является публичной офертой. Все логотипы и торговые марки, информация о которых представлена в данном мобильном приложении, являются собственностью их законных владельцев.
+
+<br> </br> <br> </br>      В мобильном приложении могут содержаться неточности и технические ошибки. В содержание мобильного приложения могут периодически вноситься изменения и поправки. Администрация данного мобильного приложения не принимает на себя каких-либо обязательств и не предоставляет гарантий за достоверность, точность и полноту предоставляемой на данном мобильном приложении информации, а также за возможные технические ошибки. Информация, опубликованная на данном сайте предназначена для использования лицами от 18 лет.
+
+
+
+<br> </br> <br> </br>      Администрация мобильного приложения "ARZAN" не проверяет, каким образом проходят акции, скидки, распродажи и другие предложения, мероприятия, информация о которых публикуется в мобильном приложении, и ни при каких условиях не несет ответственности за их осуществление, не заявляет о своем одобрении и не дает никаких оценок этих предложений, а также возможных результатов их использования.
+
+<br> </br> <br> </br>      Наши пользователи в праве отправлять нам жалобные письма, в которых должно содержаться только описание жалобы к тем или иным скидкам или акциям. Но мы не гарантируем и не обещаем удовлетворение вашей жалобы или исправление той или иной ошибки в скидках или акциях, из-за которых вы написали нам.
+
+<br> </br> <br> </br>      При оплате услуг, такие как, публикация скидок или акций, деньги обратно не возвращаются. Если по каким-то причинам мы не опубликовали вашу скидку или акцию, за которую вы нам заплатили, вы не в праве требовать свои деньги обратно, но вы можете предложить другую акцию или скидку для публикации, взамен первой, которую мы не опубликовали.
+
+
+
+<br> </br> <br></br>     Для получения достоверной информации об организациях (а также предоставляемых ими скидках, акциях, распродажах и пр.) информация о которых представлена в данном мобильном приложении, Администрация мобильного приложения рекомендует пользоваться официальным сайтом и официальными контактными данными этих организаций. Администрация данного мобильного приложения ни при каких условиях не несет ответственность за любую потерю или ущерб, являющийся результатом:
+<br> </br>   — любой погрешности в информации (недостоверности, ошибки, неточности, неполноты).
+<br> </br>   — любого сбоя информационной системы.
+<br> </br>   — любого действия или решения, основанного на полученной информации в данном мобильном приложении
+        <br> </br> <br></br>     Ссылки на сайты других компаний, представленные в данном мобильном приложении, приводятся исключительно для удобства пользователей. Совершая переходы по данным ссылкам, Вы покидаете это мобильное приложение. Администрация мобильного приложения ,,Arzan’’  не проверяет сайты других компаний и ни при каких условиях не несет ответственности за их содержимое, не заявляет о своем одобрении и не дает никаких оценок этих сайтов, а также возможных результатов их использования. Вы несете ответственность за использование сайтов других компаний, ссылки на которые есть на этом сайте.
+        <br> </br> <br></br>     При регистрации в мобильном приложении "ARZAN" Клиент предоставляет следующую информацию: номер мобильного телефона и пароль для доступа к мобильному приложению.
+        <br> </br> <br></br>     Предоставляя свои персональные данные при регистрации в мобильном приложении, Клиент соглашается на их обработку в течение неопределенного срока в целях исполнения мобильного приложения своих обязательств перед Клиентом, предоставления услуг, предоставления им справочной информации, а также соглашается на получение смс и электронных рассылок. При обработке персональных данных Клиента мобильное приложение руководствуется Конституцией Туркменистана "О персональных данных", Конституцией Туркменистана «Об использовании интернета» и иным действующим законодательством Туркменистана.
+<br> </br> <br></br>     Мобильное приложение ,,Arzan’’ не несет ответственности за сведения, предоставленные Клиентом в мобильном приложении в общедоступной форме.
+
+
+
+<br> </br> <br></br>     Эти правила действуют для всех посетителей и пользователей данного мобильного приложения. Пользование данным мобильным приложением означает, что Вы ознакомлены и согласны со всеми условиями использования информации в полном объеме без каких-либо изъятий, ограничений и претензий с Вашей стороны.
+
+<br> </br> <br></br>     Использование мобильного приложения на иных условиях не допускается.
+
+
+
+    </string>
+    <string name="contact_text">Если у вас есть какие-либо предложения по разработке нашего мобильного приложения «ARZAN», пожалуйста, присылайте нам свои предложения. А мы постараемся сделать наше мобильное приложение «ARZAN» более современным и продвинутым.</string>
+    <string name="text">Ваше сообщение</string>
+    <string name="unfav_gos">Удалено из избранного!</string>
+    <string name="fav_gos">Добавлено в избранное!</string>
+    <string name="wrong_title">Введите полное название!</string>
+    <string name="wrong_desc">Напишите полное описание!</string>
+    <string name="wrong_image_select">Выбрать картину!</string>
+    <string name="sel_region">Выберите регион!</string>
+    <string name="payment">Онлайн оплата</string>
+    <string name="free">Бесплатно</string>
+    <string name="arzan_aksiya">Arzan/Aksiýa</string>
+    <string name="banner">Баннер</string>
+    <string name="vip">Рекомендуемый пост</string>
+    <string name="post">Пост</string>
+    <string name="future">Вскоре!</string>
+    <string name="no_result">Нет результата!</string>
+    <string name="more_key">Попробуйте более общее ключевое слово!</string>
+    <string name="giris">войти</string>
+    <string name="forget_password">Забыл пароль?</string>
+    <string name="recover_password">Восстановить пароль</string>
+    <string name="new_password">Новый пароль</string>
+    <string name="password_changed">Пароль изменен</string>
+    <string name="wrong_phone">Неверный номер телефона</string>
+    <string name="view_all">Посмотреть все</string>
+    <string name="recommend">Рекомендуемые</string>
+    <string name="username">Имя пользователя</string>
+    <string name="short_name">Слишком короткое имя пользователя</string>
+    <string name="settings">Настройки</string>
+    <string name="drak_theme">Темная тема</string>
+    <string name="download">Скачать</string>
+    <string name="log_off">Выйти</string>
+    <string name="yes">да</string>
+    <string name="log_out">Вы уверены, что хотите выйти?</string>
+    <string name="no">Отменить</string>
+    <string name="no_internet">Нет интернета!</string>
+    <string name="check_internet">Пожалуйста, проверьте свой интернет!</string>
+    <string name="retry">Повторить попытку</string>
+    <string name="first">Первый шаг</string>
+    <string name="add_card">Добавить карту</string>
+    <string name="card_number">Номер карты</string>
+    <string name="expiration">Срок действия карты (месяц/год)</string>
+    <string name="name_surname">Фамилия Имя</string>
+    <string name="second_step">Второй шаг</string>
+    <string name="choose_service">Выбрать услугу</string>
+    <string name="next">Следующий</string>
+    <string name="third">Третий шаг</string>
+    <string name="confirmation">Подтверждение</string>
+    <string name="name">Имя</string>
+    <string name="amount">Количество</string>
+    <string name="card">Картa</string>
+    <string name="views">Просмотры</string>
+    <string name="posts">Все посты</string>
+    <string name="likes">Лайки</string>
+    <string name="visitors">Посетители</string>
+    <string name="profile">Профиль</string>
+    <string name="confirmed">Подтвержденный</string>
+    <string name="pending">В ожидании</string>
+    <string name="change">Изменить изображение</string>
+    <string name="show">Посмотреть изображение</string>
+    <string name="username_changed">Имя пользователя изменено</string>
+    <string name="choose_card">Выбрать карту</string>
+    <string name="short_card_number">" Введите 16 цифр "</string>
+    <string name="short_endtime">Введите верный црок</string>
+    <string name="card_name_short">Укажите владельца карты</string>
+    <string name="service">Услуга</string>
+    <string name="services">Цены на услуги</string>
+    <string name="regions">Регионы</string>
+    <string name="post_added">Ваш пост отправлен на рассмотрение и будет опубликован в скором времени</string>
+    <string name="complain_sended">Мы получили вашу жалобу. Исправим её в ближайшее время</string>
+    <string name="suggest_sended">Мы получили ваше предложение. Свяжемся с вами в скором времени</string>
+    <string name="service_sended">Мы получили ваш запрос. Свяжемся с вами в скором времени</string>
+    <string name="statistic">Статистика</string>
+    <string name="start_update">Начать загрузку</string>
+    <string name="downloaded">Скачано</string>
+    <string name="follow">Подписаться</string>
+    <string name="official_user">Официальные пользователи</string>
+    <string name="read_more">Читать далее</string>
+    <string name="following">подписчики</string>
+    <string name="unfollow">Отписаться</string>
+    <string name="code">Код</string>
+    <string name="error_code">Неправильный код!</string>
+    <string name="repost">Репост</string>
+    <string name="edit">Редактировать</string>
+    <string name="delete">Удалить</string>
+    <string name="post_deleted">Пост удалено</string>
+    <string name="money">Общая сумма</string>
+    <string-array name="statistic">
+        <item>День</item>
+        <item>Неделю</item>
+        <item>Месяц</item>
+    </string-array>
+</resources>

@@ -1,0 +1,170 @@
+<resources>
+    <string name="app_name">ARZAN</string>
+    <string name="about_us">Biz barada</string>
+    <string name="search">Gözleg</string>
+    <string name="notification">Bildiriş</string>
+    <string name="choose_region">Welaýatyňyzy saýlaň!</string>
+    <string name="lorem">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</string>
+    <string name="favorites">Halananlar</string>
+    <string name="network_error_toast">Internet baglanyşygy barlaň we täzeden synanşyp görüň!</string>
+    <string name="createdatup">Goşulan senesi - uludan kiçä</string>
+    <string name="createdatdown">Goşulan wagty - kiçiden ula</string>
+    <string name="viewup">Görülen san - uludan kiçä</string>
+    <string name="viewdown">Görülen san - kiçiden ula</string>
+    <string name="about">     Arzan-bu ýurdumyzyň ähli künjeklerindäki arzanlaşyklary, aksiýalary özünde jemleýän mobil goşundy. Şeýle hem bu ýerde siz öz arzanlaşyklaryňyzy we aksiýalaryňyzy ýerleşdirip bilersiňiz.
+<br> </br><br> </br>     Arzanyň aýratynlygy näme?
+<br> </br><br> </br>     Arzanyň aýratynylgy şulardan ybarat: Bu ýerde siz  ýurdumyzyň bütin künjeginden jemlenen ähli arzanlaşyklary we aksiýalary amatly ýagdaýda görüp bilersiňiz. Mundan beýläk size gerekli arzanlaşygy birnäçe sagatlap gözlemek gerek däl, gerekli harydyňyzyň adyny gözleg setirinde ýazyň we Arzan size şol haryda degişli ähli iň soňky aksiýalary, arzanlaşyklary size çykaryp berer.
+<br> </br><br> </br>     We iň esasy aýratynlyk bolsa, siz öz arzanlaşyklaryňyzy, aksiýalaryňyzy Arzanda goýmak mümkinçiligine eýe bolarsyňyz.
+<br> </br><br> </br>     Halan aksiýalaryňyzy we arzanlaşyklaryňyzy Saýlananlara goşuň, olar bilen sosial ulgamda paýlaşyň we goý hemme kişi iň peýdaly aksiýalaryň we arzanlaşyklaryň nirededigini bilsinler.
+</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="nagile">Nägilelik bildirmek</string>
+    <string name="d_ndiri">Düşündiriş</string>
+    <string name="send">Ugrat</string>
+    <string name="text_nagile">Eger-de sizde belli bir aksiýalara ýa-da arzanlaşyklara garşy nägilelik dörän bolsa, bize nägilelik hatyny iberiň. Biz size tiz wgtda jogap bermege çalyşarys.</string>
+    <string name="register">Hasaba alyş</string>
+    <string name="tassyklamak">Tassyklamak</string>
+    <string name="password">Açar sözi</string>
+    <string name="password_confirm">Açar sözüni tassykla</string>
+    <string name="login">Ulgama girmek</string>
+    <string name="short_phoneNumber">Telefon belgiňiz gysga</string>
+    <string name="short_password">Açar sözüňiz gaty gysga</string>
+    <string name="phone_have">Bu belgi eýýäm bar</string>
+    <string name="password_dont">Açar sözü gabat gelenok</string>
+    <string name="wrong_login_or_password">Telefon belgi ýa-da açar sözi nädogry</string>
+    <string name="successfully_registeres">Siz üstünlikli ulgama girdiňiz!</string>
+    <string name="add_post">Bildiriş goş!</string>
+    <string name="sended">Habar ugradyldy</string>
+    <string name="title_activity_main">Main</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_gallery">Gallery</string>
+    <string name="menu_slideshow">Slideshow</string>
+    <string name="language">Dil</string>
+    <string name="tkm">Türkmençe</string>
+    <string name="rus">Русский</string>
+    <string name="rules">Düzgünnama</string>
+    <string name="share">Paýlaşmak</string>
+    <string name="contact_us">Habarlaşmak</string>
+    <string name="rate_us">Baha bermek</string>
+    <string name="rules_desc">     Mobil goşundy ",Arzan" diňe habar beriş maksatly we hiç bir ýagdaýda  ol jemgyýetçilik teklibi däldir. Bu mobil goşundyda berilýän ähli logotipler we söwda nyşanlar, ähli maglumatlar olaryň hukuk taýdan eýeleriniň eýeçiligi bolup durýar.
+        <br> </br> <br></br>     Mobil goşundyda näsazlyklar we tehniki ýalňyşlyklar bolup biler. Mobil goşundynyň mazmuny wagtal-wagtal düzedilip we üýtgedilip bilner. Bu mobil goşundynyň administrasiýasy haýsydyr bir borçlary öz üstüne almaýar we bu mobil goşundyda berilýän maglumatlaryň ygtybarlylygy, dogrulygy we dolulygy, şeýle hem mümkin bolan tehniki ýalňyşlyklar üçin kepillikleri bermeýär. Bu mobil goşundyda neşir edilen maglumat, yetginjek ýaşa ýeten adamlar tarapyndan ulanmak üçin niýetlenen.
+        <br> </br> <br></br>     "ARZAN" mobil goşundynyň administrasiýasy mobil goşundyda neşir edilýän mahabatlaryň, arzanlamalaryň, satuwlaryň we beýleki teklipleriň, wakalaryň, maglumatlaryň, olaryň amala aşyrylmagyna hiç bir ýagdaýda jogapkär däldigini, onuň makullanylyşyny yglan etmeýändigini we bu teklipler barada hiç hili baha bermeýändigini, şeýle hem olaryň ulanylmagynyň mümkin bolan netijelerini barlamaýar.
+       <br> </br> <br></br>      Ulanyjylarymyzyň bize nägilelik hatlaryny ibermäge haky bardyr. Bu hatlar biziň mobil goşundymyzda ýerleşdirilen diňe aksiýalara ýa-da arzanlaşyklara niýetlenen nägilelikleri  öz içinde saklamalydyr. Emma  biz nägilelikleriňizi kanagatlandyrjakdygymyzy ýa-da arzanladyşlarda ýa-da aksiýalarda haýsydyr bir ýalňyşlygy düzetjekdigimize kepil geçmeýäris.
+        <br> </br> <br></br>     Arzanladyş ýa-da aksiýa neşir etmek ýaly hyzmatlar üçin töleg geçirilende, pul  yzyna gaýtarylmaýar. Eger-de haýsydyr bir sebäplere görä  biz siziň arzanlaşygyňyzy ýa-da aksiýaňyzy neşir etmek üçin tölegini alyp, neşir etmedik bolsak,onda siz puluňyzy yzyna talap etmäge hakyňyz ýok, emma neşir edilmedik arzanlaşygyň ýa-da aksiýanyň ýerine başga bir aksiýany ýa-da arzanlaşygy teklip edip bilersiňiz. Eger-de teklip eden aksiýaňyz ýa-da arzanlaşygyňyz Türkmenistanyň Konstitusiýasyna ters gelmeýän bolsa, biz siziň aksiýaňyzy ýa-da arzanlaşygyňyzy neşir ederis.
+        <br> </br> <br></br>     Bu mobil goşundyda hödürlenýän guramalar barada ygtybarly maglumatlary (şeýle hem arzanlaşyklary,aksiýalary, satuwlary we ş.m.) almak üçin  mobil goşundynyň administrasiýasy bu guramalaryň resmi web sahypasyny ýa-da  resmi aragatnaşyk maglumatlaryny ulanmagy maslahat berýär. Mobil goşundynyň administrasiýasy aşakdakylar sebäpli ýüze çykan hiç hili ýitgi ýa-da zeper üçin jogapkärçilik çekmeýär:
+        <br> </br>   - islendik maglumat ýalňyşlyk (ynamsyzlyk, ýalňyşlyklar, nädogrylyklar, doly dällik).
+<br> </br>   - maglumat ulgamynyň islendik näsazlygy.
+<br> </br>   - şu mobil goşundydaky maglumatlar arkaly kabul edilen hereketler ýa-da kararlar
+        <br> </br> <br></br>     Bu mobil goşundyda görkezilen beýleki kompaniýalaryň web-sahypalaryna baglanyşyklar  diňe ulanyjylaryň amatlygy üçin berilýär. Şu baglanyşyklara basmak bilen siz şu mobil goşundydan çykyp gidýärsiňiz. "ARZAN" Mobil goşundynyň  administrasiýasy  başga kompaniýalaryň web-sahypalaryny barlamaýar we hiç bir ýagdaýda, olaryň mazmuny üçin jogapkärçilik çekmeýär, özüniň makullygy barada yglan etmeýär we bu web-sahypalara, şeýle hem olaryň ulanylmagynyň mümkin bolan netijelerine hiç hili baha bermeýär we jogapkärçilik çekmeýär. Siz beýleki kompaniýalaryň web-sahypalaryny ýa-da web-sahypalardaky ýerleşdirilen beýleki baglanyşyklaryň ulanyşygy üçin diňe özüňiz jogapkärlisiňiz.
+        <br> </br> <br></br>     Mobil goşundyda hasaba alnanda  Müşderi şu maglumatlary berýär:  mobil telefon belgisi we mobil goşunda girmek üçin parol (gizlin kod)
+        <br> </br> <br></br>     Müşderi mobil goşundyda hasaba alnanda öz şahsy maglumatlaryny bermek bilen, mobil goşundysy Müşderiň öňünde öz borçnamalarynyň ýerine ýetirmek, hyzmatlary bermek, olara salgylanma maglumatlary bermek, şeýle hem SMS we elektron poçtalary arkaly bildirişleri ibermek maksady bilen, olaryň işlenilmegi bilen möhletsiz ýagdaýda ylalaşýar. Müşderiniň şahsy maglumatlaryny işläp düzmekde mobil goşundy Türkmenistanyň ,,Şahsy maglumatlar baradaky’’ we ,,Internet ulgamyny ulanmak’’ baradaky  ugur alýar.
+        <br> </br> <br></br>     ,,ARZAN’’ mobil goşundynyň administrasiýasy müşderi tarapyndan açyk we köpçülige elýeterli ýagdaýda goýan şahsy ýa-da beýleki görnüşli maglumaty üçin jogakärçilik çekmeýär.
+        <br> </br> <br></br>     Bu düzgünler bu mobil goşundynyň ähli myhmanlaryna we ulanyjylaryna degişli. Bu mobil goşundydan peýdalanmak, siziň hiç hili üýtgeşiklik, çäklendirme we talap bildirmezden informasiýany ulanmagyň ähli şertlerini doly okandygyňyzy we razy bolandygyňyzy aňladýar.
+
+<br> </br> <br></br>     Mobil goşundydan başga şertlerde peýdalanmaga ýol berilmeýär.
+
+
+    </string>
+    <string name="contact_text">Eger-de ,,ARZAN’’ mobil goşundymyzy ösdürmek üçin teklipleriňiz bar bolsa, bize teklipleriňizi ugradyň. Biz bolsa ,,ARZAN’’ mobil goşundymyzy has hem döwrebap we öňdebaryjy etmäge çalyşarys.</string>
+    <string name="text">Habaryňyz</string>
+    <string name="unfav_gos">Halananlara aýyryldy! </string>
+    <string name="fav_gos">Halananlardan goşuldy!</string>
+    <string name="tm" translatable="false">tm</string>
+    <string name="wrong_title">Sözbaşy doly giriziň!</string>
+    <string name="wrong_desc">Düşündirişi doly ýazyň!</string>
+    <string name="wrong_image_select">Surat saýlaň!</string>
+    <string name="sel_region">Welaýaty saýlaň!</string>
+    <string name="payment">Onlaýn töleg</string>
+    <string name="free">Mugt</string>
+    <string name="arzan_aksiya">Arzan/Aksiýa</string>
+    <string name="banner">Banner</string>
+    <string name="vip">Saýlanan post</string>
+    <string name="post">Post</string>
+    <string name="future">Ýakyn wagtda!</string>
+    <string name="no_result">Netije ýok!</string>
+    <string name="more_key">Has umumy açar söz ulanyp görüň!</string>
+    <string name="giris">girmek</string>
+    <string name="forget_password">Açar sözi yatdan çykardyňyzmy?</string>
+    <string name="recover_password">Açar sözi dikeltmek</string>
+    <string name="new_password">Täze açar sözi</string>
+    <string name="password_changed">Açar sözi üýtgedildi </string>
+    <string name="wrong_phone">Nädogry telefon belgisi</string>
+    <string name="view_all">Ählisini gör</string>
+    <string name="recommend">Saýlananlar</string>
+    <string name="username">Ulanyjynyň ady</string>
+    <string name="short_name">Ulanyjy adyňyz gaty gysga</string>
+    <string name="settings">Sazlamalr</string>
+    <string name="drak_theme">Garaňky tema</string>
+    <string name="download">Ýükelemk</string>
+    <string name="log_off">Ulgamdan çykyş</string>
+    <string name="yes">Hawa</string>
+    <string name="log_out">Siz çyndanam çykmak isleýäňizmi?</string>
+    <string name="no">Ýok</string>
+    <string name="no_internet">Internet ýok!</string>
+    <string name="check_internet">Internetiňizi barlaň!</string>
+    <string name="retry">Gaýtadan synanyşmak</string>
+    <string name="first">Birinji ädim</string>
+    <string name="add_card">Kart goşmak</string>
+    <string name="card_number">Kart nomeri</string>
+    <string name="expiration">Kartyň ulanylyş möhleti (aý / ýyl)</string>
+    <string name="name_surname">Familiýa Ady</string>
+    <string name="second_step">Ikinji ädim</string>
+    <string name="choose_service">Hyzmat saýlaň</string>
+    <string name="next">Indiki</string>
+    <string name="third">Üçünji ädim</string>
+    <string name="confirmation">Tassyklamak</string>
+    <string name="name">Ady</string>
+    <string name="amount">Mukdar</string>
+    <string name="card">Kart</string>
+    <string name="views">Görülen</string>
+    <string name="posts">Ähli postlar</string>
+    <string name="likes">Likeler</string>
+    <string name="visitors">Myhmanlar</string>
+    <string name="profile">Profil</string>
+    <string name="confirmed">Tassyklandy</string>
+    <string name="pending">Garaşylýar</string>
+    <string name="change">Suraty üýtgetmek</string>
+    <string name="show">Suraty görmek</string>
+    <string name="username_changed">Ulanyjy ady üýtgedi</string>
+    <string name="choose_card">Kart saýlaň</string>
+    <string name="short_card_number">16 san giriziň</string>
+    <string name="short_endtime">Введите верный црок</string>
+    <string name="card_name_short">Укажите владельца карты</string>
+    <string name="service">Hyzmat</string>
+    <string name="services">Hyzmatlarymyzyn bahalary</string>
+    <string name="regions">Welaýatlar</string>
+    <string name="post_added">Siziň postyňyz administrasiýanyň garamagyna iberildi we tiz wagtda neşir ediler.</string>
+    <string name="complain_sended">Biz siziň nägileligiňizi kabul etdik. Näsazlygy tiz wagta düzederis.</string>
+    <string name="suggest_sended">Teklibiňizi aldyk. Tiz wagtda siz bilen habarlaşarys</string>
+    <string name="service_sended">Siziň haýyşyňyzy aldyk.Tiz wagtda siz bilen habarlaşarys</string>
+    <string name="statistic">Statistika</string>
+    <string name="start_update">Göçürip başla</string>
+    <string name="downloaded">Ýüklenildi</string>
+    <string name="follow">Yzarla</string>
+    <string name="official_user">Resmi ulanyjylar</string>
+    <string name="read_more">Doly oka</string>
+    <string name="following">yzarlaýanlar</string>
+    <string name="unfollow">Bes et</string>
+    <string name="code">Kod</string>
+    <string name="error_code">Nädogry kod!</string>
+    <string name="repost">Repost</string>
+    <string name="edit">Redaktirläň</string>
+    <string name="delete">Öçür</string>
+    <string name="post_deleted">Post öçürildi</string>
+    <string name="money">Umumy bahasy</string>
+
+    <string-array name="statistic">
+        <item>Gün</item>
+        <item>Hepde</item>
+        <item>Aý</item>
+    </string-array>
+
+</resources>

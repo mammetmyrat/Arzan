@@ -1,0 +1,2250 @@
+[
+    {
+        "merged": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_share.png.flat",
+        "source": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_share.png"
+    },
+    {
+        "merged": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\intermediates\\res\\merged\\debug\\anim_slide_down.xml.flat",
+        "source": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\src\\main\\res\\anim\\slide_down.xml"
+    },
+    {
+        "merged": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_reload.png.flat",
+        "source": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_reload.png"
+    },
+    {
+        "merged": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_visibility.png.flat",
+        "source": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_visibility.png"
+    },
+    {
+        "merged": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_search_green.xml.flat",
+        "source": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_search_green.xml"
+    },
+    {
+        "merged": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\intermediates\\res\\merged\\debug\\layout_item_post_pager.xml.flat",
+        "source": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\src\\main\\res\\layout\\item_post_pager.xml"
+    },
+    {
+        "merged": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_favorite.xml.flat",
+        "source": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_favorite.xml"
+    },
+    {
+        "merged": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_notification_actvity.xml.flat",
+        "source": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\src\\main\\res\\layout\\activity_notification_actvity.xml"
+    },
+    {
+        "merged": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_search.png.flat",
+        "source": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_search.png"
+    },
+    {
+        "merged": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_phone.png.flat",
+        "source": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_phone.png"
+    },
+    {
+        "merged": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_visible_white.xml.flat",
+        "source": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_visible_white.xml"
+    },
+    {
+        "merged": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_exit.xml.flat",
+        "source": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_exit.xml"
+    },
+    {
+        "merged": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_contact.xml.flat",
+        "source": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_contact.xml"
+    },
+    {
+        "merged": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_user_bottom.png.flat",
+        "source": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_user_bottom.png"
+    },
+    {
+        "merged": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\intermediates\\res\\merged\\debug\\drawable_badge.xml.flat",
+        "source": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\src\\main\\res\\drawable\\badge.xml"
+    },
+    {
+        "merged": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_credit_card.xml.flat",
+        "source": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_credit_card.xml"
+    },
+    {
+        "merged": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_visible_green.png.flat",
+        "source": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_visible_green.png"
+    },
+    {
+        "merged": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_info_green.png.flat",
+        "source": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_info_green.png"
+    },
+    {
+        "merged": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_add.png.flat",
+        "source": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_add.png"
+    },
+    {
+        "merged": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\intermediates\\res\\merged\\debug\\anim_in_right.xml.flat",
+        "source": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\src\\main\\res\\anim\\in_right.xml"
+    },
+    {
+        "merged": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_search.png.flat",
+        "source": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_search.png"
+    },
+    {
+        "merged": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_view_standart.png.flat",
+        "source": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_view_standart.png"
+    },
+    {
+        "merged": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_region.xml.flat",
+        "source": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\src\\main\\res\\layout\\fragment_region.xml"
+    },
+    {
+        "merged": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_location_profile.png.flat",
+        "source": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_location_profile.png"
+    },
+    {
+        "merged": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\intermediates\\res\\merged\\debug\\drawable_rules_log.png.flat",
+        "source": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\src\\main\\res\\drawable\\rules_log.png"
+    },
+    {
+        "merged": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_menu.png.flat",
+        "source": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_menu.png"
+    },
+    {
+        "merged": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_location_profile.png.flat",
+        "source": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_location_profile.png"
+    },
+    {
+        "merged": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_location_red.png.flat",
+        "source": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_location_red.png"
+    },
+    {
+        "merged": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_baseline_wifi_off_24.png.flat",
+        "source": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_baseline_wifi_off_24.png"
+    },
+    {
+        "merged": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_view_small.png.flat",
+        "source": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_view_small.png"
+    },
+    {
+        "merged": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_favorite_green.png.flat",
+        "source": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_favorite_green.png"
+    },
+    {
+        "merged": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\intermediates\\res\\merged\\debug\\drawable_bottom_menu.xml.flat",
+        "source": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\src\\main\\res\\drawable\\bottom_menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_like.png.flat",
+        "source": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_like.png"
+    },
+    {
+        "merged": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_visible_green.png.flat",
+        "source": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_visible_green.png"
+    },
+    {
+        "merged": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_credit_card.png.flat",
+        "source": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_credit_card.png"
+    },
+    {
+        "merged": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_baseline_edit_24.xml.flat",
+        "source": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_baseline_edit_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_contact.png.flat",
+        "source": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_contact.png"
+    },
+    {
+        "merged": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_statistic.png.flat",
+        "source": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_statistic.png"
+    },
+    {
+        "merged": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_confirmed.png.flat",
+        "source": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_confirmed.png"
+    },
+    {
+        "merged": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\intermediates\\res\\merged\\debug\\layout_item_banner.xml.flat",
+        "source": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\src\\main\\res\\layout\\item_banner.xml"
+    },
+    {
+        "merged": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_view_big.png.flat",
+        "source": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_view_big.png"
+    },
+    {
+        "merged": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_rules.png.flat",
+        "source": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_rules.png"
+    },
+    {
+        "merged": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_user.png.flat",
+        "source": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_user.png"
+    },
+    {
+        "merged": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_add_post.xml.flat",
+        "source": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\src\\main\\res\\layout\\activity_add_post.xml"
+    },
+    {
+        "merged": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_on.png.flat",
+        "source": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_on.png"
+    },
+    {
+        "merged": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_phone.png.flat",
+        "source": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_phone.png"
+    },
+    {
+        "merged": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_reload.png.flat",
+        "source": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_reload.png"
+    },
+    {
+        "merged": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_visibile.png.flat",
+        "source": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_visibile.png"
+    },
+    {
+        "merged": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_share.png.flat",
+        "source": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_share.png"
+    },
+    {
+        "merged": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_login.xml.flat",
+        "source": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\src\\main\\res\\layout\\activity_login.xml"
+    },
+    {
+        "merged": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_notification.png.flat",
+        "source": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_notification.png"
+    },
+    {
+        "merged": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_menu.xml.flat",
+        "source": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_favorite.png.flat",
+        "source": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_favorite.png"
+    },
+    {
+        "merged": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_select_image_profile.xml.flat",
+        "source": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\select_image_profile.xml"
+    },
+    {
+        "merged": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_home_check.png.flat",
+        "source": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_home_check.png"
+    },
+    {
+        "merged": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_smile.png.flat",
+        "source": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_smile.png"
+    },
+    {
+        "merged": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_info.png.flat",
+        "source": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_info.png"
+    },
+    {
+        "merged": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_baseline_wifi_off_24.png.flat",
+        "source": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_baseline_wifi_off_24.png"
+    },
+    {
+        "merged": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_select_image_profile.png.flat",
+        "source": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\select_image_profile.png"
+    },
+    {
+        "merged": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_key.png.flat",
+        "source": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_key.png"
+    },
+    {
+        "merged": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_key.png.flat",
+        "source": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_key.png"
+    },
+    {
+        "merged": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_visibile.png.flat",
+        "source": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_visibile.png"
+    },
+    {
+        "merged": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_location_red.png.flat",
+        "source": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_location_red.png"
+    },
+    {
+        "merged": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_search_green.png.flat",
+        "source": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_search_green.png"
+    },
+    {
+        "merged": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_view_standart.png.flat",
+        "source": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_view_standart.png"
+    },
+    {
+        "merged": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_share.xml.flat",
+        "source": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_share.xml"
+    },
+    {
+        "merged": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_favorite_green.png.flat",
+        "source": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_favorite_green.png"
+    },
+    {
+        "merged": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_user_bottom.xml.flat",
+        "source": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_user_bottom.xml"
+    },
+    {
+        "merged": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\intermediates\\res\\merged\\debug\\drawable_map.png.flat",
+        "source": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\src\\main\\res\\drawable\\map.png"
+    },
+    {
+        "merged": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_statistic.png.flat",
+        "source": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_statistic.png"
+    },
+    {
+        "merged": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\intermediates\\res\\merged\\debug\\font_adamina.xml.flat",
+        "source": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\src\\main\\res\\font\\adamina.xml"
+    },
+    {
+        "merged": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_recommended.xml.flat",
+        "source": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\src\\main\\res\\layout\\activity_recommended.xml"
+    },
+    {
+        "merged": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_like_green.png.flat",
+        "source": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_like_green.png"
+    },
+    {
+        "merged": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\intermediates\\res\\merged\\debug\\drawable_def_image.png.flat",
+        "source": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\src\\main\\res\\drawable\\def_image.png"
+    },
+    {
+        "merged": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_back.png.flat",
+        "source": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_back.png"
+    },
+    {
+        "merged": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_small_down.png.flat",
+        "source": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_small_down.png"
+    },
+    {
+        "merged": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_home_check.png.flat",
+        "source": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_home_check.png"
+    },
+    {
+        "merged": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\intermediates\\res\\merged\\debug\\layout_item_post_standart.xml.flat",
+        "source": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\src\\main\\res\\layout\\item_post_standart.xml"
+    },
+    {
+        "merged": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_official.png.flat",
+        "source": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_official.png"
+    },
+    {
+        "merged": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_pending.png.flat",
+        "source": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_pending.png"
+    },
+    {
+        "merged": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_rate.xml.flat",
+        "source": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_rate.xml"
+    },
+    {
+        "merged": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\intermediates\\res\\merged\\debug\\layout_item_region_dialog.xml.flat",
+        "source": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\src\\main\\res\\layout\\item_region_dialog.xml"
+    },
+    {
+        "merged": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_reload.png.flat",
+        "source": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_reload.png"
+    },
+    {
+        "merged": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_home.png.flat",
+        "source": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_home.png"
+    },
+    {
+        "merged": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_baseline_edit_24.png.flat",
+        "source": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_baseline_edit_24.png"
+    },
+    {
+        "merged": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_smile.png.flat",
+        "source": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_smile.png"
+    },
+    {
+        "merged": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\intermediates\\res\\merged\\debug\\navigation_nav.xml.flat",
+        "source": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\src\\main\\res\\navigation\\nav.xml"
+    },
+    {
+        "merged": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_download_red.png.flat",
+        "source": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_download_red.png"
+    },
+    {
+        "merged": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_visible_green.png.flat",
+        "source": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_visible_green.png"
+    },
+    {
+        "merged": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_user_bottom.png.flat",
+        "source": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_user_bottom.png"
+    },
+    {
+        "merged": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_search.xml.flat",
+        "source": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_search.xml"
+    },
+    {
+        "merged": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_confirmed.png.flat",
+        "source": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_confirmed.png"
+    },
+    {
+        "merged": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_dark_mode.xml.flat",
+        "source": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_dark_mode.xml"
+    },
+    {
+        "merged": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v24_ic_off.xml.flat",
+        "source": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v24\\ic_off.xml"
+    },
+    {
+        "merged": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_share.png.flat",
+        "source": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_share.png"
+    },
+    {
+        "merged": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_view_big.xml.flat",
+        "source": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_view_big.xml"
+    },
+    {
+        "merged": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v24_ic_radio_check.xml.flat",
+        "source": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v24\\ic_radio_check.xml"
+    },
+    {
+        "merged": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_official.png.flat",
+        "source": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_official.png"
+    },
+    {
+        "merged": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_profile.xml.flat",
+        "source": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\src\\main\\res\\layout\\fragment_profile.xml"
+    },
+    {
+        "merged": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_home.png.flat",
+        "source": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_home.png"
+    },
+    {
+        "merged": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_notification.png.flat",
+        "source": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_notification.png"
+    },
+    {
+        "merged": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_visible_off.png.flat",
+        "source": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_visible_off.png"
+    },
+    {
+        "merged": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_on.png.flat",
+        "source": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_on.png"
+    },
+    {
+        "merged": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_rate.png.flat",
+        "source": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_rate.png"
+    },
+    {
+        "merged": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_setting.png.flat",
+        "source": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_setting.png"
+    },
+    {
+        "merged": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_rate.png.flat",
+        "source": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_rate.png"
+    },
+    {
+        "merged": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_share_green.png.flat",
+        "source": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_share_green.png"
+    },
+    {
+        "merged": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_home_check.xml.flat",
+        "source": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_home_check.xml"
+    },
+    {
+        "merged": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_dark_mode.png.flat",
+        "source": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_dark_mode.png"
+    },
+    {
+        "merged": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\intermediates\\res\\merged\\debug\\drawable_lang_bg.xml.flat",
+        "source": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\src\\main\\res\\drawable\\lang_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_small_down.png.flat",
+        "source": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_small_down.png"
+    },
+    {
+        "merged": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_view_standart.png.flat",
+        "source": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_view_standart.png"
+    },
+    {
+        "merged": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_setting.png.flat",
+        "source": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_setting.png"
+    },
+    {
+        "merged": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_back.png.flat",
+        "source": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_back.png"
+    },
+    {
+        "merged": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_official.png.flat",
+        "source": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_official.png"
+    },
+    {
+        "merged": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_radio_check.png.flat",
+        "source": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_radio_check.png"
+    },
+    {
+        "merged": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_confirmed.png.flat",
+        "source": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_confirmed.png"
+    },
+    {
+        "merged": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic__fav_check.png.flat",
+        "source": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic__fav_check.png"
+    },
+    {
+        "merged": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_confirmed.xml.flat",
+        "source": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_confirmed.xml"
+    },
+    {
+        "merged": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_dark_mode.png.flat",
+        "source": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_dark_mode.png"
+    },
+    {
+        "merged": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_favorite_green.png.flat",
+        "source": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_favorite_green.png"
+    },
+    {
+        "merged": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_location_red.png.flat",
+        "source": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_location_red.png"
+    },
+    {
+        "merged": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\intermediates\\res\\merged\\debug\\layout_item_post_big.xml.flat",
+        "source": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\src\\main\\res\\layout\\item_post_big.xml"
+    },
+    {
+        "merged": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_user.png.flat",
+        "source": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_user.png"
+    },
+    {
+        "merged": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_delete.png.flat",
+        "source": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_delete.png"
+    },
+    {
+        "merged": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_home_check.png.flat",
+        "source": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_home_check.png"
+    },
+    {
+        "merged": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_setting.xml.flat",
+        "source": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_setting.xml"
+    },
+    {
+        "merged": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_start.xml.flat",
+        "source": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\src\\main\\res\\layout\\activity_start.xml"
+    },
+    {
+        "merged": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_delete.png.flat",
+        "source": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_delete.png"
+    },
+    {
+        "merged": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\intermediates\\res\\merged\\debug\\layout_photo_dialog.xml.flat",
+        "source": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\src\\main\\res\\layout\\photo_dialog.xml"
+    },
+    {
+        "merged": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_view_small.png.flat",
+        "source": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_view_small.png"
+    },
+    {
+        "merged": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_filter.png.flat",
+        "source": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_filter.png"
+    },
+    {
+        "merged": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_radio_check.png.flat",
+        "source": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_radio_check.png"
+    },
+    {
+        "merged": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_select_image_profile.png.flat",
+        "source": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\select_image_profile.png"
+    },
+    {
+        "merged": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v24_ic_done.xml.flat",
+        "source": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v24\\ic_done.xml"
+    },
+    {
+        "merged": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_view_standart.xml.flat",
+        "source": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_view_standart.xml"
+    },
+    {
+        "merged": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_rules.png.flat",
+        "source": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_rules.png"
+    },
+    {
+        "merged": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_services.png.flat",
+        "source": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\src\\main\\res\\drawable\\ic_services.png"
+    },
+    {
+        "merged": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_small_down.png.flat",
+        "source": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_small_down.png"
+    },
+    {
+        "merged": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\intermediates\\res\\merged\\debug\\drawable_rus.png.flat",
+        "source": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\src\\main\\res\\drawable\\rus.png"
+    },
+    {
+        "merged": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_delete.png.flat",
+        "source": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_delete.png"
+    },
+    {
+        "merged": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\intermediates\\res\\merged\\debug\\menu_change_menu.xml.flat",
+        "source": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\src\\main\\res\\menu\\change_menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_setting.png.flat",
+        "source": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_setting.png"
+    },
+    {
+        "merged": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_favorite.png.flat",
+        "source": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_favorite.png"
+    },
+    {
+        "merged": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_statistic.png.flat",
+        "source": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_statistic.png"
+    },
+    {
+        "merged": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_visibility.xml.flat",
+        "source": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_visibility.xml"
+    },
+    {
+        "merged": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_filter.png.flat",
+        "source": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_filter.png"
+    },
+    {
+        "merged": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\intermediates\\res\\merged\\debug\\drawable_follow_bg.xml.flat",
+        "source": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\src\\main\\res\\drawable\\follow_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_like.png.flat",
+        "source": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_like.png"
+    },
+    {
+        "merged": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_tab_indicator.png.flat",
+        "source": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\tab_indicator.png"
+    },
+    {
+        "merged": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\intermediates\\res\\merged\\debug\\drawable_stat_share.png.flat",
+        "source": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\src\\main\\res\\drawable\\stat_share.png"
+    },
+    {
+        "merged": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_smile.xml.flat",
+        "source": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_smile.xml"
+    },
+    {
+        "merged": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_image_view.xml.flat",
+        "source": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\src\\main\\res\\layout\\activity_image_view.xml"
+    },
+    {
+        "merged": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_share_green.xml.flat",
+        "source": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_share_green.xml"
+    },
+    {
+        "merged": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_profile_travel.xml.flat",
+        "source": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\src\\main\\res\\layout\\activity_profile_travel.xml"
+    },
+    {
+        "merged": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_off.png.flat",
+        "source": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_off.png"
+    },
+    {
+        "merged": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_search.png.flat",
+        "source": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_search.png"
+    },
+    {
+        "merged": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_share_green.png.flat",
+        "source": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_share_green.png"
+    },
+    {
+        "merged": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_visibile.png.flat",
+        "source": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_visibile.png"
+    },
+    {
+        "merged": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_home.png.flat",
+        "source": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_home.png"
+    },
+    {
+        "merged": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_notification.png.flat",
+        "source": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_notification.png"
+    },
+    {
+        "merged": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\intermediates\\res\\merged\\debug\\drawable_image.png.flat",
+        "source": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\src\\main\\res\\drawable\\image.png"
+    },
+    {
+        "merged": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_officals.xml.flat",
+        "source": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\src\\main\\res\\layout\\activity_officals.xml"
+    },
+    {
+        "merged": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_search_dragment.xml.flat",
+        "source": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\src\\main\\res\\layout\\fragment_search_dragment.xml"
+    },
+    {
+        "merged": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\intermediates\\res\\merged\\debug\\anim_in_left.xml.flat",
+        "source": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\src\\main\\res\\anim\\in_left.xml"
+    },
+    {
+        "merged": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_like.png.flat",
+        "source": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_like.png"
+    },
+    {
+        "merged": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_setting.png.flat",
+        "source": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_setting.png"
+    },
+    {
+        "merged": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_off.png.flat",
+        "source": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_off.png"
+    },
+    {
+        "merged": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_contact.png.flat",
+        "source": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_contact.png"
+    },
+    {
+        "merged": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_like_check_red.png.flat",
+        "source": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_like_check_red.png"
+    },
+    {
+        "merged": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_visibility.png.flat",
+        "source": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_visibility.png"
+    },
+    {
+        "merged": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_pending.png.flat",
+        "source": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_pending.png"
+    },
+    {
+        "merged": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_like.png.flat",
+        "source": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_like.png"
+    },
+    {
+        "merged": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\intermediates\\res\\merged\\debug\\layout_item_region.xml.flat",
+        "source": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\src\\main\\res\\layout\\item_region.xml"
+    },
+    {
+        "merged": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_like_check_red.png.flat",
+        "source": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_like_check_red.png"
+    },
+    {
+        "merged": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_pending.png.flat",
+        "source": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_pending.png"
+    },
+    {
+        "merged": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_exit.png.flat",
+        "source": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_exit.png"
+    },
+    {
+        "merged": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_smile.png.flat",
+        "source": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_smile.png"
+    },
+    {
+        "merged": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\intermediates\\res\\merged\\debug\\layout_item_region_small.xml.flat",
+        "source": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\src\\main\\res\\layout\\item_region_small.xml"
+    },
+    {
+        "merged": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_info_green.png.flat",
+        "source": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_info_green.png"
+    },
+    {
+        "merged": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_like_green.png.flat",
+        "source": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_like_green.png"
+    },
+    {
+        "merged": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\intermediates\\res\\merged\\debug\\drawable_tab_color.xml.flat",
+        "source": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\src\\main\\res\\drawable\\tab_color.xml"
+    },
+    {
+        "merged": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_location_red.png.flat",
+        "source": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_location_red.png"
+    },
+    {
+        "merged": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_notification.png.flat",
+        "source": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_notification.png"
+    },
+    {
+        "merged": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\intermediates\\res\\merged\\debug\\drawable_main_bg.xml.flat",
+        "source": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\src\\main\\res\\drawable\\main_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_contact.png.flat",
+        "source": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_contact.png"
+    },
+    {
+        "merged": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_key.png.flat",
+        "source": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_key.png"
+    },
+    {
+        "merged": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_visibile.png.flat",
+        "source": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_visibile.png"
+    },
+    {
+        "merged": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_baseline_wifi_off_24.xml.flat",
+        "source": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_baseline_wifi_off_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_i_radio.png.flat",
+        "source": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\i_radio.png"
+    },
+    {
+        "merged": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_view_big.png.flat",
+        "source": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_view_big.png"
+    },
+    {
+        "merged": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\intermediates\\res\\merged\\debug\\drawable_app_logo.png.flat",
+        "source": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\src\\main\\res\\drawable\\app_logo.png"
+    },
+    {
+        "merged": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_share.png.flat",
+        "source": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_share.png"
+    },
+    {
+        "merged": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_menu.png.flat",
+        "source": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_menu.png"
+    },
+    {
+        "merged": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_month.xml.flat",
+        "source": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\src\\main\\res\\layout\\fragment_month.xml"
+    },
+    {
+        "merged": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_language.png.flat",
+        "source": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_language.png"
+    },
+    {
+        "merged": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\intermediates\\res\\merged\\debug\\drawable_button_bg.xml.flat",
+        "source": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\src\\main\\res\\drawable\\button_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\intermediates\\res\\merged\\debug\\anim_out_left.xml.flat",
+        "source": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\src\\main\\res\\anim\\out_left.xml"
+    },
+    {
+        "merged": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_credit_card.png.flat",
+        "source": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_credit_card.png"
+    },
+    {
+        "merged": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_favorite.png.flat",
+        "source": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_favorite.png"
+    },
+    {
+        "merged": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_visibile.png.flat",
+        "source": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_visibile.png"
+    },
+    {
+        "merged": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_download_red.png.flat",
+        "source": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_download_red.png"
+    },
+    {
+        "merged": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\intermediates\\res\\merged\\debug\\layout_feedback_dialog.xml.flat",
+        "source": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\src\\main\\res\\layout\\feedback_dialog.xml"
+    },
+    {
+        "merged": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_search.png.flat",
+        "source": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_search.png"
+    },
+    {
+        "merged": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_visible_white.png.flat",
+        "source": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_visible_white.png"
+    },
+    {
+        "merged": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_location_profile.png.flat",
+        "source": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_location_profile.png"
+    },
+    {
+        "merged": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_language.png.flat",
+        "source": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_language.png"
+    },
+    {
+        "merged": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_add.png.flat",
+        "source": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_add.png"
+    },
+    {
+        "merged": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_small_down.png.flat",
+        "source": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_small_down.png"
+    },
+    {
+        "merged": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_search_green.png.flat",
+        "source": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_search_green.png"
+    },
+    {
+        "merged": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_small_up.png.flat",
+        "source": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_small_up.png"
+    },
+    {
+        "merged": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_visibility.png.flat",
+        "source": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_visibility.png"
+    },
+    {
+        "merged": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_off.png.flat",
+        "source": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_off.png"
+    },
+    {
+        "merged": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_setting.png.flat",
+        "source": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_setting.png"
+    },
+    {
+        "merged": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_rules.png.flat",
+        "source": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_rules.png"
+    },
+    {
+        "merged": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_done.png.flat",
+        "source": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_done.png"
+    },
+    {
+        "merged": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_info.png.flat",
+        "source": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_info.png"
+    },
+    {
+        "merged": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\intermediates\\res\\merged\\debug\\drawable_side_nav_bar.xml.flat",
+        "source": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\src\\main\\res\\drawable\\side_nav_bar.xml"
+    },
+    {
+        "merged": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\intermediates\\res\\merged\\debug\\font_aldrich.xml.flat",
+        "source": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\src\\main\\res\\font\\aldrich.xml"
+    },
+    {
+        "merged": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_i_radio.png.flat",
+        "source": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\i_radio.png"
+    },
+    {
+        "merged": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\intermediates\\res\\merged\\debug\\layout_item_notification.xml.flat",
+        "source": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\src\\main\\res\\layout\\item_notification.xml"
+    },
+    {
+        "merged": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_menu.png.flat",
+        "source": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_menu.png"
+    },
+    {
+        "merged": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_tab_indicator.png.flat",
+        "source": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\tab_indicator.png"
+    },
+    {
+        "merged": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_phone.png.flat",
+        "source": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_phone.png"
+    },
+    {
+        "merged": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_user_bottom.png.flat",
+        "source": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_user_bottom.png"
+    },
+    {
+        "merged": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_credit_card.png.flat",
+        "source": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_credit_card.png"
+    },
+    {
+        "merged": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_reload.png.flat",
+        "source": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_reload.png"
+    },
+    {
+        "merged": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\intermediates\\res\\merged\\debug\\anim_slide_up.xml.flat",
+        "source": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\src\\main\\res\\anim\\slide_up.xml"
+    },
+    {
+        "merged": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_add.png.flat",
+        "source": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_add.png"
+    },
+    {
+        "merged": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_notification.png.flat",
+        "source": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_notification.png"
+    },
+    {
+        "merged": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_more.png.flat",
+        "source": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_more.png"
+    },
+    {
+        "merged": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_favorite.png.flat",
+        "source": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_favorite.png"
+    },
+    {
+        "merged": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_language.png.flat",
+        "source": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_language.png"
+    },
+    {
+        "merged": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_link_post_activtiy.xml.flat",
+        "source": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\src\\main\\res\\layout\\activity_link_post_activtiy.xml"
+    },
+    {
+        "merged": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_small_up.xml.flat",
+        "source": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_small_up.xml"
+    },
+    {
+        "merged": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_info_green.png.flat",
+        "source": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_info_green.png"
+    },
+    {
+        "merged": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_view_big.png.flat",
+        "source": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_view_big.png"
+    },
+    {
+        "merged": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_small_up.png.flat",
+        "source": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_small_up.png"
+    },
+    {
+        "merged": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_exit.png.flat",
+        "source": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_exit.png"
+    },
+    {
+        "merged": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_smile.png.flat",
+        "source": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_smile.png"
+    },
+    {
+        "merged": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_baseline_wifi_off_24.png.flat",
+        "source": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_baseline_wifi_off_24.png"
+    },
+    {
+        "merged": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_view_small.png.flat",
+        "source": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_view_small.png"
+    },
+    {
+        "merged": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_icon_search.png.flat",
+        "source": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\icon_search.png"
+    },
+    {
+        "merged": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\intermediates\\res\\merged\\debug\\drawable_copyright.png.flat",
+        "source": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\src\\main\\res\\drawable\\copyright.png"
+    },
+    {
+        "merged": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\intermediates\\res\\merged\\debug\\drawable_drawer_image.png.flat",
+        "source": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\src\\main\\res\\drawable\\drawer_image.png"
+    },
+    {
+        "merged": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_search.png.flat",
+        "source": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_search.png"
+    },
+    {
+        "merged": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_key.png.flat",
+        "source": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_key.png"
+    },
+    {
+        "merged": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\intermediates\\res\\merged\\debug\\drawable_rules_bg.png.flat",
+        "source": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\src\\main\\res\\drawable\\rules_bg.png"
+    },
+    {
+        "merged": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_language.png.flat",
+        "source": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_language.png"
+    },
+    {
+        "merged": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_statistic.png.flat",
+        "source": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_statistic.png"
+    },
+    {
+        "merged": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_download_red.xml.flat",
+        "source": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_download_red.xml"
+    },
+    {
+        "merged": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_like_green.png.flat",
+        "source": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_like_green.png"
+    },
+    {
+        "merged": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_visible_off.png.flat",
+        "source": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_visible_off.png"
+    },
+    {
+        "merged": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\intermediates\\res\\merged\\debug\\drawable_pay_logo.png.flat",
+        "source": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\src\\main\\res\\drawable\\pay_logo.png"
+    },
+    {
+        "merged": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\intermediates\\res\\merged\\debug\\layout_check_internet.xml.flat",
+        "source": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\src\\main\\res\\layout\\check_internet.xml"
+    },
+    {
+        "merged": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\intermediates\\res\\merged\\debug\\drawable_stat_view.png.flat",
+        "source": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\src\\main\\res\\drawable\\stat_view.png"
+    },
+    {
+        "merged": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_filter.xml.flat",
+        "source": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_filter.xml"
+    },
+    {
+        "merged": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_exit.png.flat",
+        "source": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_exit.png"
+    },
+    {
+        "merged": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_i_radio.png.flat",
+        "source": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\i_radio.png"
+    },
+    {
+        "merged": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\intermediates\\res\\merged\\debug\\anim_fab.xml.flat",
+        "source": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\src\\main\\res\\anim\\fab.xml"
+    },
+    {
+        "merged": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\intermediates\\res\\merged\\debug\\layout_item_official_large.xml.flat",
+        "source": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\src\\main\\res\\layout\\item_official_large.xml"
+    },
+    {
+        "merged": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_pending.png.flat",
+        "source": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_pending.png"
+    },
+    {
+        "merged": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_like_check_red.png.flat",
+        "source": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_like_check_red.png"
+    },
+    {
+        "merged": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_phone.png.flat",
+        "source": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_phone.png"
+    },
+    {
+        "merged": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_small_up.png.flat",
+        "source": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_small_up.png"
+    },
+    {
+        "merged": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_key.png.flat",
+        "source": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_key.png"
+    },
+    {
+        "merged": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_share.png.flat",
+        "source": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_share.png"
+    },
+    {
+        "merged": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_i_radio.png.flat",
+        "source": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\i_radio.png"
+    },
+    {
+        "merged": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_rules.png.flat",
+        "source": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_rules.png"
+    },
+    {
+        "merged": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_baseline_wifi_off_24.png.flat",
+        "source": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_baseline_wifi_off_24.png"
+    },
+    {
+        "merged": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_statistic.png.flat",
+        "source": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_statistic.png"
+    },
+    {
+        "merged": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_baseline_edit_24.png.flat",
+        "source": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_baseline_edit_24.png"
+    },
+    {
+        "merged": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_radio_check.png.flat",
+        "source": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_radio_check.png"
+    },
+    {
+        "merged": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_language.xml.flat",
+        "source": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_language.xml"
+    },
+    {
+        "merged": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\intermediates\\res\\merged\\debug\\layout_change_image.xml.flat",
+        "source": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\src\\main\\res\\layout\\change_image.xml"
+    },
+    {
+        "merged": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_done.png.flat",
+        "source": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_done.png"
+    },
+    {
+        "merged": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_visible_green.png.flat",
+        "source": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_visible_green.png"
+    },
+    {
+        "merged": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_location_profile.png.flat",
+        "source": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_location_profile.png"
+    },
+    {
+        "merged": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_more.png.flat",
+        "source": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_more.png"
+    },
+    {
+        "merged": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\intermediates\\res\\merged\\debug\\drawable_bottom_fav.xml.flat",
+        "source": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\src\\main\\res\\drawable\\bottom_fav.xml"
+    },
+    {
+        "merged": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_info.png.flat",
+        "source": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_info.png"
+    },
+    {
+        "merged": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_share.png.flat",
+        "source": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_share.png"
+    },
+    {
+        "merged": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_phone.png.flat",
+        "source": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_phone.png"
+    },
+    {
+        "merged": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_off.png.flat",
+        "source": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_off.png"
+    },
+    {
+        "merged": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_view_standart.png.flat",
+        "source": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_view_standart.png"
+    },
+    {
+        "merged": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_search.png.flat",
+        "source": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_search.png"
+    },
+    {
+        "merged": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_location_red.png.flat",
+        "source": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_location_red.png"
+    },
+    {
+        "merged": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_filter.png.flat",
+        "source": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_filter.png"
+    },
+    {
+        "merged": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_back.xml.flat",
+        "source": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_back.xml"
+    },
+    {
+        "merged": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\intermediates\\res\\merged\\debug\\drawable_view_al_bg.xml.flat",
+        "source": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\src\\main\\res\\drawable\\view_al_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_reload.xml.flat",
+        "source": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_reload.xml"
+    },
+    {
+        "merged": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\intermediates\\res\\merged\\debug\\drawable_user.png.flat",
+        "source": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\src\\main\\res\\drawable\\user.png"
+    },
+    {
+        "merged": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_exit.png.flat",
+        "source": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_exit.png"
+    },
+    {
+        "merged": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_select_image_profile.png.flat",
+        "source": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\select_image_profile.png"
+    },
+    {
+        "merged": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic__fav_check.png.flat",
+        "source": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic__fav_check.png"
+    },
+    {
+        "merged": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_i_radio.xml.flat",
+        "source": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\i_radio.xml"
+    },
+    {
+        "merged": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_visible_green.png.flat",
+        "source": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_visible_green.png"
+    },
+    {
+        "merged": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_favorite.png.flat",
+        "source": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_favorite.png"
+    },
+    {
+        "merged": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_home_check.png.flat",
+        "source": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_home_check.png"
+    },
+    {
+        "merged": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_menu.png.flat",
+        "source": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_menu.png"
+    },
+    {
+        "merged": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_small_up.png.flat",
+        "source": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_small_up.png"
+    },
+    {
+        "merged": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_credit_card.png.flat",
+        "source": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_credit_card.png"
+    },
+    {
+        "merged": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_setting.xml.flat",
+        "source": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\src\\main\\res\\layout\\fragment_setting.xml"
+    },
+    {
+        "merged": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_baseline_wifi_off_24.png.flat",
+        "source": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_baseline_wifi_off_24.png"
+    },
+    {
+        "merged": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_filter.png.flat",
+        "source": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_filter.png"
+    },
+    {
+        "merged": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_visibile.png.flat",
+        "source": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_visibile.png"
+    },
+    {
+        "merged": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\intermediates\\res\\merged\\debug\\anim_layout_anim.xml.flat",
+        "source": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\src\\main\\res\\anim\\layout_anim.xml"
+    },
+    {
+        "merged": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_visible_white.png.flat",
+        "source": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_visible_white.png"
+    },
+    {
+        "merged": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_share_green.png.flat",
+        "source": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_share_green.png"
+    },
+    {
+        "merged": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\intermediates\\res\\merged\\debug\\layout_pozmaly.xml.flat",
+        "source": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\src\\main\\res\\layout\\pozmaly.xml"
+    },
+    {
+        "merged": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_like_green.png.flat",
+        "source": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_like_green.png"
+    },
+    {
+        "merged": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_download_red.png.flat",
+        "source": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_download_red.png"
+    },
+    {
+        "merged": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_done.png.flat",
+        "source": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_done.png"
+    },
+    {
+        "merged": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_home.xml.flat",
+        "source": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_home.xml"
+    },
+    {
+        "merged": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_credit_card.png.flat",
+        "source": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_credit_card.png"
+    },
+    {
+        "merged": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_reload.png.flat",
+        "source": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_reload.png"
+    },
+    {
+        "merged": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_small_down.png.flat",
+        "source": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_small_down.png"
+    },
+    {
+        "merged": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\intermediates\\res\\merged\\debug\\drawable_nagile_bg.xml.flat",
+        "source": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\src\\main\\res\\drawable\\nagile_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_search_green.png.flat",
+        "source": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_search_green.png"
+    },
+    {
+        "merged": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_favorite_green.png.flat",
+        "source": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_favorite_green.png"
+    },
+    {
+        "merged": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_official.xml.flat",
+        "source": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_official.xml"
+    },
+    {
+        "merged": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_download_red.png.flat",
+        "source": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_download_red.png"
+    },
+    {
+        "merged": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_off.png.flat",
+        "source": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_off.png"
+    },
+    {
+        "merged": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_add.png.flat",
+        "source": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_add.png"
+    },
+    {
+        "merged": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\intermediates\\res\\merged\\debug\\layout_item_image.xml.flat",
+        "source": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\src\\main\\res\\layout\\item_image.xml"
+    },
+    {
+        "merged": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\intermediates\\res\\merged\\debug\\layout_pay_dialog.xml.flat",
+        "source": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\src\\main\\res\\layout\\pay_dialog.xml"
+    },
+    {
+        "merged": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_location_red.xml.flat",
+        "source": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_location_red.xml"
+    },
+    {
+        "merged": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\intermediates\\res\\merged\\debug\\drawable_logo.png.flat",
+        "source": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\src\\main\\res\\drawable\\logo.png"
+    },
+    {
+        "merged": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\intermediates\\res\\merged\\debug\\drawable_editext_b.xml.flat",
+        "source": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\src\\main\\res\\drawable\\editext_b.xml"
+    },
+    {
+        "merged": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_third_payment.xml.flat",
+        "source": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\src\\main\\res\\layout\\fragment_third_payment.xml"
+    },
+    {
+        "merged": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_off.png.flat",
+        "source": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_off.png"
+    },
+    {
+        "merged": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_view_standart.png.flat",
+        "source": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_view_standart.png"
+    },
+    {
+        "merged": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_dark_mode.png.flat",
+        "source": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_dark_mode.png"
+    },
+    {
+        "merged": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_reload.png.flat",
+        "source": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_reload.png"
+    },
+    {
+        "merged": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_like.xml.flat",
+        "source": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_like.xml"
+    },
+    {
+        "merged": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_search_no_result.png.flat",
+        "source": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_search_no_result.png"
+    },
+    {
+        "merged": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_first.xml.flat",
+        "source": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\src\\main\\res\\layout\\fragment_first.xml"
+    },
+    {
+        "merged": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_done.png.flat",
+        "source": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_done.png"
+    },
+    {
+        "merged": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_search_no_result.png.flat",
+        "source": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_search_no_result.png"
+    },
+    {
+        "merged": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_more.png.flat",
+        "source": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_more.png"
+    },
+    {
+        "merged": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_radio_check.png.flat",
+        "source": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_radio_check.png"
+    },
+    {
+        "merged": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_radio_check.png.flat",
+        "source": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_radio_check.png"
+    },
+    {
+        "merged": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic__fav_check.xml.flat",
+        "source": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic__fav_check.xml"
+    },
+    {
+        "merged": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_visible_off.png.flat",
+        "source": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_visible_off.png"
+    },
+    {
+        "merged": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_view_standart.png.flat",
+        "source": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_view_standart.png"
+    },
+    {
+        "merged": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_visible_off.png.flat",
+        "source": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_visible_off.png"
+    },
+    {
+        "merged": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\intermediates\\res\\merged\\debug\\font_aladin.xml.flat",
+        "source": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\src\\main\\res\\font\\aladin.xml"
+    },
+    {
+        "merged": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_contact.png.flat",
+        "source": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_contact.png"
+    },
+    {
+        "merged": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_on.png.flat",
+        "source": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_on.png"
+    },
+    {
+        "merged": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_all_posts.png.flat",
+        "source": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\src\\main\\res\\drawable\\ic_all_posts.png"
+    },
+    {
+        "merged": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_like.png.flat",
+        "source": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_like.png"
+    },
+    {
+        "merged": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\intermediates\\res\\merged\\debug\\anim_out_right.xml.flat",
+        "source": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\src\\main\\res\\anim\\out_right.xml"
+    },
+    {
+        "merged": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_visibility.png.flat",
+        "source": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_visibility.png"
+    },
+    {
+        "merged": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_download_red.png.flat",
+        "source": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_download_red.png"
+    },
+    {
+        "merged": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_small_up.png.flat",
+        "source": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_small_up.png"
+    },
+    {
+        "merged": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\intermediates\\res\\merged\\debug\\drawable_about_bg.png.flat",
+        "source": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\src\\main\\res\\drawable\\about_bg.png"
+    },
+    {
+        "merged": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_confirmed.png.flat",
+        "source": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_confirmed.png"
+    },
+    {
+        "merged": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_visible_white.png.flat",
+        "source": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_visible_white.png"
+    },
+    {
+        "merged": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\intermediates\\res\\merged\\debug\\xml_network_security_config.xml.flat",
+        "source": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\src\\main\\res\\xml\\network_security_config.xml"
+    },
+    {
+        "merged": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_user.png.flat",
+        "source": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_user.png"
+    },
+    {
+        "merged": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_home_check.png.flat",
+        "source": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_home_check.png"
+    },
+    {
+        "merged": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_favorite_green.xml.flat",
+        "source": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_favorite_green.xml"
+    },
+    {
+        "merged": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_on.png.flat",
+        "source": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_on.png"
+    },
+    {
+        "merged": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v24_ic_location_profile.xml.flat",
+        "source": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v24\\ic_location_profile.xml"
+    },
+    {
+        "merged": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_notification.png.flat",
+        "source": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_notification.png"
+    },
+    {
+        "merged": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_language.png.flat",
+        "source": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_language.png"
+    },
+    {
+        "merged": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_delete.png.flat",
+        "source": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_delete.png"
+    },
+    {
+        "merged": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_filter.png.flat",
+        "source": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_filter.png"
+    },
+    {
+        "merged": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_like_check_red.png.flat",
+        "source": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_like_check_red.png"
+    },
+    {
+        "merged": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\intermediates\\res\\merged\\debug\\drawable_fav_bg.xml.flat",
+        "source": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\src\\main\\res\\drawable\\fav_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_home_check.png.flat",
+        "source": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_home_check.png"
+    },
+    {
+        "merged": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_setting.png.flat",
+        "source": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_setting.png"
+    },
+    {
+        "merged": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_menu.png.flat",
+        "source": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_menu.png"
+    },
+    {
+        "merged": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_user.png.flat",
+        "source": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_user.png"
+    },
+    {
+        "merged": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_pending.png.flat",
+        "source": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_pending.png"
+    },
+    {
+        "merged": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_select_image_profile.png.flat",
+        "source": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\select_image_profile.png"
+    },
+    {
+        "merged": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\intermediates\\res\\merged\\debug\\layout_item_sel_image.xml.flat",
+        "source": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\src\\main\\res\\layout\\item_sel_image.xml"
+    },
+    {
+        "merged": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_small_down.png.flat",
+        "source": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_small_down.png"
+    },
+    {
+        "merged": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\intermediates\\res\\merged\\debug\\layout_more_dialog.xml.flat",
+        "source": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\src\\main\\res\\layout\\more_dialog.xml"
+    },
+    {
+        "merged": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_search_green.png.flat",
+        "source": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_search_green.png"
+    },
+    {
+        "merged": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_back.png.flat",
+        "source": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_back.png"
+    },
+    {
+        "merged": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_on.png.flat",
+        "source": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_on.png"
+    },
+    {
+        "merged": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_view_big.png.flat",
+        "source": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_view_big.png"
+    },
+    {
+        "merged": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\intermediates\\res\\merged\\debug\\drawable_thumb.xml.flat",
+        "source": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\src\\main\\res\\drawable\\thumb.xml"
+    },
+    {
+        "merged": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_share_green.png.flat",
+        "source": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_share_green.png"
+    },
+    {
+        "merged": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_baseline_wifi_off_24.png.flat",
+        "source": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_baseline_wifi_off_24.png"
+    },
+    {
+        "merged": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_region.xml.flat",
+        "source": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\src\\main\\res\\layout\\activity_region.xml"
+    },
+    {
+        "merged": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_view_small.png.flat",
+        "source": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_view_small.png"
+    },
+    {
+        "merged": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_back.png.flat",
+        "source": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_back.png"
+    },
+    {
+        "merged": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_visible_white.png.flat",
+        "source": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_visible_white.png"
+    },
+    {
+        "merged": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_rate.png.flat",
+        "source": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_rate.png"
+    },
+    {
+        "merged": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_visibile.xml.flat",
+        "source": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_visibile.xml"
+    },
+    {
+        "merged": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_user.xml.flat",
+        "source": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_user.xml"
+    },
+    {
+        "merged": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_delete.png.flat",
+        "source": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_delete.png"
+    },
+    {
+        "merged": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_info.png.flat",
+        "source": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_info.png"
+    },
+    {
+        "merged": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic__fav_check.png.flat",
+        "source": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic__fav_check.png"
+    },
+    {
+        "merged": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_small_up.png.flat",
+        "source": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_small_up.png"
+    },
+    {
+        "merged": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_user_bottom.png.flat",
+        "source": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_user_bottom.png"
+    },
+    {
+        "merged": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_search_green.png.flat",
+        "source": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_search_green.png"
+    },
+    {
+        "merged": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\intermediates\\res\\merged\\debug\\drawable_bottom_home.xml.flat",
+        "source": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\src\\main\\res\\drawable\\bottom_home.xml"
+    },
+    {
+        "merged": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\intermediates\\res\\merged\\debug\\font_montserrat_subrayada.xml.flat",
+        "source": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\src\\main\\res\\font\\montserrat_subrayada.xml"
+    },
+    {
+        "merged": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_rules.xml.flat",
+        "source": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\src\\main\\res\\layout\\fragment_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_home.png.flat",
+        "source": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_home.png"
+    },
+    {
+        "merged": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_select_image_profile.png.flat",
+        "source": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\select_image_profile.png"
+    },
+    {
+        "merged": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\intermediates\\res\\merged\\debug\\layout_item_official.xml.flat",
+        "source": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\src\\main\\res\\layout\\item_official.xml"
+    },
+    {
+        "merged": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\intermediates\\res\\merged\\debug\\menu_more_menu.xml.flat",
+        "source": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\src\\main\\res\\menu\\more_menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_like_check_red.png.flat",
+        "source": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_like_check_red.png"
+    },
+    {
+        "merged": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\intermediates\\res\\merged\\debug\\drawable_bottom_search.xml.flat",
+        "source": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\src\\main\\res\\drawable\\bottom_search.xml"
+    },
+    {
+        "merged": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_visible_green.png.flat",
+        "source": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_visible_green.png"
+    },
+    {
+        "merged": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_post_detail_activty.xml.flat",
+        "source": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\src\\main\\res\\layout\\activity_post_detail_activty.xml"
+    },
+    {
+        "merged": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_dark_mode.png.flat",
+        "source": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_dark_mode.png"
+    },
+    {
+        "merged": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_view_big.png.flat",
+        "source": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_view_big.png"
+    },
+    {
+        "merged": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_filter.png.flat",
+        "source": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_filter.png"
+    },
+    {
+        "merged": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_search_green.png.flat",
+        "source": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_search_green.png"
+    },
+    {
+        "merged": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_confirmed.png.flat",
+        "source": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_confirmed.png"
+    },
+    {
+        "merged": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_confirmed.png.flat",
+        "source": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_confirmed.png"
+    },
+    {
+        "merged": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\intermediates\\res\\merged\\debug\\layout_main.xml.flat",
+        "source": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\src\\main\\res\\layout\\main.xml"
+    },
+    {
+        "merged": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_add.png.flat",
+        "source": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_add.png"
+    },
+    {
+        "merged": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_more.png.flat",
+        "source": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_more.png"
+    },
+    {
+        "merged": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_view_big.png.flat",
+        "source": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_view_big.png"
+    },
+    {
+        "merged": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\intermediates\\res\\merged\\debug\\drawable_add_image.png.flat",
+        "source": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\src\\main\\res\\drawable\\add_image.png"
+    },
+    {
+        "merged": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\intermediates\\res\\merged\\debug\\drawable_stat_post.png.flat",
+        "source": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\src\\main\\res\\drawable\\stat_post.png"
+    },
+    {
+        "merged": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_week.xml.flat",
+        "source": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\src\\main\\res\\layout\\fragment_week.xml"
+    },
+    {
+        "merged": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\intermediates\\res\\merged\\debug\\menu_bottom.xml.flat",
+        "source": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\src\\main\\res\\menu\\bottom.xml"
+    },
+    {
+        "merged": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_smile.png.flat",
+        "source": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_smile.png"
+    },
+    {
+        "merged": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_info_green.xml.flat",
+        "source": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_info_green.xml"
+    },
+    {
+        "merged": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_done.png.flat",
+        "source": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_done.png"
+    },
+    {
+        "merged": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\intermediates\\res\\merged\\debug\\layout_item_service.xml.flat",
+        "source": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\src\\main\\res\\layout\\item_service.xml"
+    },
+    {
+        "merged": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_delete.png.flat",
+        "source": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_delete.png"
+    },
+    {
+        "merged": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_home.xml.flat",
+        "source": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\src\\main\\res\\layout\\fragment_home.xml"
+    },
+    {
+        "merged": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_location_red.png.flat",
+        "source": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_location_red.png"
+    },
+    {
+        "merged": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_i_radio.png.flat",
+        "source": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\i_radio.png"
+    },
+    {
+        "merged": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_visible_off.png.flat",
+        "source": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_visible_off.png"
+    },
+    {
+        "merged": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_user.png.flat",
+        "source": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_user.png"
+    },
+    {
+        "merged": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic__fav_check.png.flat",
+        "source": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic__fav_check.png"
+    },
+    {
+        "merged": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\intermediates\\res\\merged\\debug\\anim_name_anim.xml.flat",
+        "source": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\src\\main\\res\\anim\\name_anim.xml"
+    },
+    {
+        "merged": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_location_profile.png.flat",
+        "source": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_location_profile.png"
+    },
+    {
+        "merged": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_search_no_result.xml.flat",
+        "source": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_search_no_result.xml"
+    },
+    {
+        "merged": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_credit_card.png.flat",
+        "source": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_credit_card.png"
+    },
+    {
+        "merged": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\intermediates\\res\\merged\\debug\\layout_item_vip.xml.flat",
+        "source": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\src\\main\\res\\layout\\item_vip.xml"
+    },
+    {
+        "merged": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\intermediates\\res\\merged\\debug\\drawable_tkm.png.flat",
+        "source": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\src\\main\\res\\drawable\\tkm.png"
+    },
+    {
+        "merged": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_rate.png.flat",
+        "source": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_rate.png"
+    },
+    {
+        "merged": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_dark_mode.png.flat",
+        "source": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_dark_mode.png"
+    },
+    {
+        "merged": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_view_small.png.flat",
+        "source": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_view_small.png"
+    },
+    {
+        "merged": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_share_green.png.flat",
+        "source": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_share_green.png"
+    },
+    {
+        "merged": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_search_no_result.png.flat",
+        "source": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_search_no_result.png"
+    },
+    {
+        "merged": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v24_ic_on.xml.flat",
+        "source": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v24\\ic_on.xml"
+    },
+    {
+        "merged": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_search_no_result.png.flat",
+        "source": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_search_no_result.png"
+    },
+    {
+        "merged": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\intermediates\\res\\merged\\debug\\layout_done_dialog.xml.flat",
+        "source": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\src\\main\\res\\layout\\done_dialog.xml"
+    },
+    {
+        "merged": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_home.png.flat",
+        "source": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_home.png"
+    },
+    {
+        "merged": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_about.xml.flat",
+        "source": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\src\\main\\res\\layout\\fragment_about.xml"
+    },
+    {
+        "merged": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_rate.png.flat",
+        "source": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_rate.png"
+    },
+    {
+        "merged": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_location_profile.png.flat",
+        "source": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_location_profile.png"
+    },
+    {
+        "merged": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_user.png.flat",
+        "source": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_user.png"
+    },
+    {
+        "merged": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_info_green.png.flat",
+        "source": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_info_green.png"
+    },
+    {
+        "merged": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_back.png.flat",
+        "source": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_back.png"
+    },
+    {
+        "merged": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_like_green.xml.flat",
+        "source": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_like_green.xml"
+    },
+    {
+        "merged": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_visible_green.xml.flat",
+        "source": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_visible_green.xml"
+    },
+    {
+        "merged": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_more.png.flat",
+        "source": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_more.png"
+    },
+    {
+        "merged": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_key.xml.flat",
+        "source": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_key.xml"
+    },
+    {
+        "merged": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_like_check_red.png.flat",
+        "source": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_like_check_red.png"
+    },
+    {
+        "merged": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_visibility.png.flat",
+        "source": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_visibility.png"
+    },
+    {
+        "merged": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_i_radio.png.flat",
+        "source": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\i_radio.png"
+    },
+    {
+        "merged": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_search_no_result.png.flat",
+        "source": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_search_no_result.png"
+    },
+    {
+        "merged": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic__fav_check.png.flat",
+        "source": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic__fav_check.png"
+    },
+    {
+        "merged": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\intermediates\\res\\merged\\debug\\drawable_unfollow_bg.xml.flat",
+        "source": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\src\\main\\res\\drawable\\unfollow_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_on.png.flat",
+        "source": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_on.png"
+    },
+    {
+        "merged": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_like_green.png.flat",
+        "source": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_like_green.png"
+    },
+    {
+        "merged": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_icon_search.png.flat",
+        "source": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\icon_search.png"
+    },
+    {
+        "merged": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_pending.png.flat",
+        "source": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_pending.png"
+    },
+    {
+        "merged": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_info.png.flat",
+        "source": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_info.png"
+    },
+    {
+        "merged": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_info_green.png.flat",
+        "source": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_info_green.png"
+    },
+    {
+        "merged": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_exit.png.flat",
+        "source": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_exit.png"
+    },
+    {
+        "merged": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_small_down.xml.flat",
+        "source": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_small_down.xml"
+    },
+    {
+        "merged": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_official.png.flat",
+        "source": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_official.png"
+    },
+    {
+        "merged": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_home.png.flat",
+        "source": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_home.png"
+    },
+    {
+        "merged": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_tab_indicator.png.flat",
+        "source": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\tab_indicator.png"
+    },
+    {
+        "merged": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_user_bottom.png.flat",
+        "source": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_user_bottom.png"
+    },
+    {
+        "merged": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\intermediates\\res\\merged\\debug\\layout_item_post_small.xml.flat",
+        "source": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\src\\main\\res\\layout\\item_post_small.xml"
+    },
+    {
+        "merged": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_forget.xml.flat",
+        "source": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\src\\main\\res\\layout\\activity_forget.xml"
+    },
+    {
+        "merged": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_pending.xml.flat",
+        "source": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_pending.xml"
+    },
+    {
+        "merged": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_add.xml.flat",
+        "source": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_add.xml"
+    },
+    {
+        "merged": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_like.png.flat",
+        "source": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_like.png"
+    },
+    {
+        "merged": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_icon_search.png.flat",
+        "source": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\icon_search.png"
+    },
+    {
+        "merged": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_view_small.png.flat",
+        "source": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_view_small.png"
+    },
+    {
+        "merged": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_contact.png.flat",
+        "source": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_contact.png"
+    },
+    {
+        "merged": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_visible_white.png.flat",
+        "source": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_visible_white.png"
+    },
+    {
+        "merged": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\intermediates\\res\\merged\\debug\\layout_statistic_dialog.xml.flat",
+        "source": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\src\\main\\res\\layout\\statistic_dialog.xml"
+    },
+    {
+        "merged": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_register.xml.flat",
+        "source": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\src\\main\\res\\layout\\activity_register.xml"
+    },
+    {
+        "merged": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_back.png.flat",
+        "source": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_back.png"
+    },
+    {
+        "merged": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_icon_search.png.flat",
+        "source": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\icon_search.png"
+    },
+    {
+        "merged": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_more.xml.flat",
+        "source": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_more.xml"
+    },
+    {
+        "merged": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_rate.png.flat",
+        "source": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_rate.png"
+    },
+    {
+        "merged": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_view_small.xml.flat",
+        "source": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_view_small.xml"
+    },
+    {
+        "merged": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_baseline_edit_24.png.flat",
+        "source": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_baseline_edit_24.png"
+    },
+    {
+        "merged": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_icon_search.png.flat",
+        "source": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\icon_search.png"
+    },
+    {
+        "merged": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_visible_off.png.flat",
+        "source": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_visible_off.png"
+    },
+    {
+        "merged": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_delete.xml.flat",
+        "source": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_delete.xml"
+    },
+    {
+        "merged": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_favorite_green.png.flat",
+        "source": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_favorite_green.png"
+    },
+    {
+        "merged": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_statistic.png.flat",
+        "source": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_statistic.png"
+    },
+    {
+        "merged": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_icon_search.xml.flat",
+        "source": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\icon_search.xml"
+    },
+    {
+        "merged": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_done.png.flat",
+        "source": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_done.png"
+    },
+    {
+        "merged": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_like_check_red.xml.flat",
+        "source": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_like_check_red.xml"
+    },
+    {
+        "merged": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_info_green.png.flat",
+        "source": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_info_green.png"
+    },
+    {
+        "merged": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_baseline_edit_24.png.flat",
+        "source": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_baseline_edit_24.png"
+    },
+    {
+        "merged": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_like_green.png.flat",
+        "source": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_like_green.png"
+    },
+    {
+        "merged": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_tab_indicator.png.flat",
+        "source": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\tab_indicator.png"
+    },
+    {
+        "merged": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\intermediates\\res\\merged\\debug\\layout_item_confirm_post.xml.flat",
+        "source": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\src\\main\\res\\layout\\item_confirm_post.xml"
+    },
+    {
+        "merged": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\intermediates\\res\\merged\\debug\\layout_exit_dialog.xml.flat",
+        "source": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\src\\main\\res\\layout\\exit_dialog.xml"
+    },
+    {
+        "merged": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_icon_search.png.flat",
+        "source": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\icon_search.png"
+    },
+    {
+        "merged": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_select_image_profile.png.flat",
+        "source": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\select_image_profile.png"
+    },
+    {
+        "merged": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_search_no_result.png.flat",
+        "source": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_search_no_result.png"
+    },
+    {
+        "merged": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\intermediates\\res\\merged\\debug\\drawable_text_app.png.flat",
+        "source": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\src\\main\\res\\drawable\\text_app.png"
+    },
+    {
+        "merged": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_smile.png.flat",
+        "source": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_smile.png"
+    },
+    {
+        "merged": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\intermediates\\res\\merged\\debug\\drawable_track.xml.flat",
+        "source": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\src\\main\\res\\drawable\\track.xml"
+    },
+    {
+        "merged": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\intermediates\\res\\merged\\debug\\drawable_stat_like.png.flat",
+        "source": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\src\\main\\res\\drawable\\stat_like.png"
+    },
+    {
+        "merged": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_baseline_edit_24.png.flat",
+        "source": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_baseline_edit_24.png"
+    },
+    {
+        "merged": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_phone.png.flat",
+        "source": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_phone.png"
+    },
+    {
+        "merged": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_contact_us.xml.flat",
+        "source": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\src\\main\\res\\layout\\fragment_contact_us.xml"
+    },
+    {
+        "merged": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_user_bottom.png.flat",
+        "source": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_user_bottom.png"
+    },
+    {
+        "merged": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_language.png.flat",
+        "source": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_language.png"
+    },
+    {
+        "merged": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_rules.png.flat",
+        "source": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_rules.png"
+    },
+    {
+        "merged": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_official.png.flat",
+        "source": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_official.png"
+    },
+    {
+        "merged": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_menu.png.flat",
+        "source": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_menu.png"
+    },
+    {
+        "merged": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_info.xml.flat",
+        "source": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_info.xml"
+    },
+    {
+        "merged": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_key.png.flat",
+        "source": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_key.png"
+    },
+    {
+        "merged": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_more.png.flat",
+        "source": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_more.png"
+    },
+    {
+        "merged": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_tab_indicator.png.flat",
+        "source": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\tab_indicator.png"
+    },
+    {
+        "merged": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_dark_mode.png.flat",
+        "source": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_dark_mode.png"
+    },
+    {
+        "merged": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_download_red.png.flat",
+        "source": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_download_red.png"
+    },
+    {
+        "merged": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_favorite_green.png.flat",
+        "source": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_favorite_green.png"
+    },
+    {
+        "merged": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_visibility.png.flat",
+        "source": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_visibility.png"
+    },
+    {
+        "merged": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_radio_check.png.flat",
+        "source": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_radio_check.png"
+    },
+    {
+        "merged": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_exit.png.flat",
+        "source": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_exit.png"
+    },
+    {
+        "merged": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_tab_indicator.xml.flat",
+        "source": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\tab_indicator.xml"
+    },
+    {
+        "merged": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_payment.png.flat",
+        "source": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\src\\main\\res\\drawable\\ic_payment.png"
+    },
+    {
+        "merged": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_contact.png.flat",
+        "source": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_contact.png"
+    },
+    {
+        "merged": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_add.png.flat",
+        "source": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_add.png"
+    },
+    {
+        "merged": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_official.png.flat",
+        "source": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_official.png"
+    },
+    {
+        "merged": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_rules.png.flat",
+        "source": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_rules.png"
+    },
+    {
+        "merged": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_info.png.flat",
+        "source": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_info.png"
+    },
+    {
+        "merged": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_phone.xml.flat",
+        "source": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_phone.xml"
+    },
+    {
+        "merged": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_rules.xml.flat",
+        "source": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_tab_indicator.png.flat",
+        "source": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\tab_indicator.png"
+    },
+    {
+        "merged": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_favorite.png.flat",
+        "source": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_favorite.png"
+    },
+    {
+        "merged": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_statistic.xml.flat",
+        "source": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_statistic.xml"
+    },
+    {
+        "merged": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_notification.xml.flat",
+        "source": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_notification.xml"
+    },
+    {
+        "merged": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic__fav_check.png.flat",
+        "source": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic__fav_check.png"
+    },
+    {
+        "merged": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\intermediates\\res\\merged\\debug\\layout_loaging.xml.flat",
+        "source": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\src\\main\\res\\layout\\loaging.xml"
+    },
+    {
+        "merged": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_visible_off.xml.flat",
+        "source": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_visible_off.xml"
+    },
+    {
+        "merged": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_visible_white.png.flat",
+        "source": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_visible_white.png"
+    },
+    {
+        "merged": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_baseline_edit_24.png.flat",
+        "source": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_baseline_edit_24.png"
+    },
+    {
+        "merged": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\intermediates\\res\\merged\\debug\\raw_click.mp3.flat",
+        "source": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\src\\main\\res\\raw\\click.mp3"
+    },
+    {
+        "merged": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_share_green.png.flat",
+        "source": "C:\\Users\\99361\\AndroidStudioProjects\\Arzan\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_share_green.png"
+    }
+]
